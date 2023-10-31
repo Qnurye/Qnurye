@@ -1,6 +1,6 @@
 # Hi there :wave:
 
-I'm Qnurye, a  :cn:Student / :penguin: Archlinux Enthusiast.
+I'm Qnurye, a :cn: Student / :penguin: Archlinux Enthusiast.
 
 <img  src="https://github-readme-stats-nine-black-27.vercel.app/api?username=qnurye&theme=onedark&show_icons=true" alt="Qnurye's Stats" align="right"/>
 
