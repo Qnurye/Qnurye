@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there :wave:
 
-<!--
-**Qnurye/Qnurye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Qnurye, currently a student in :cn:.
 
-Here are some ideas to get you started:
+### :telescope: I’m currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Building my own website [qnurye.me]([GitHub - Qnurye/qnurye.me.frontend](https://github.com/Qnurye/qnurye.me.frontend)) (Currently Developing) with Golang and Next.js
+
+### :seedling: I'm currently learning
+
+1. Golang :rat:
+
+2. Next.js :atom_symbol:
+
+3. French :fr:
+
+4. Guitar :guitar:
+
+# 
+
+### :mailbox: How to Reach me
+
+- [:email: Email me](mailto:qnuryeZmFjZj@proton.me)
