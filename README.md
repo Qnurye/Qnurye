@@ -1,10 +1,10 @@
 # Hi there :wave:
 
-I'm Qnurye, currently a student in :cn:.
+I'm Qnurye, a  :cn:Student / :penguin: Archlinux Enthusiast.
 
 ### :telescope: I’m currently working on
 
-1. Building my own website [qnurye.me]([GitHub - Qnurye/qnurye.me.frontend](https://github.com/Qnurye/qnurye.me.frontend)) (Currently Developing) with Golang and Next.js
+1. Develop my own website [qnurye.me]([GitHub - Qnurye/qnurye.me.frontend](https://github.com/Qnurye/qnurye.me.frontend)).
 
 ### :seedling: I'm currently learning
 
@@ -15,8 +15,6 @@ I'm Qnurye, currently a student in :cn:.
 3. French :fr:
 
 4. Guitar :guitar:
-
-# 
 
 ### :mailbox: How to Reach me
 
