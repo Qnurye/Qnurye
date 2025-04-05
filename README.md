@@ -6,7 +6,7 @@ I'm Qnurye, a :cn: Student / :penguin: Arch Linux Enthusiast.
 
 ### :telescope: I’m currently working on
 
-1. Develop my own website [qnurye.me](https://github.com/Qnurye/qnurye.me.frontend).
+1. Develop my own website [qnurye.s](https://qnury.es/en).
 
 ### :seedling: I'm currently learning
 
