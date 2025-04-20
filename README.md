@@ -11,7 +11,7 @@ I'm Qnurye, a :cn: Student / :penguin: Arch Linux Enthusiast. You can find more 
 ### :seedling: I'm currently learning
 
 1. Rust :crab:
-
+2. Nix :snowflake:
 3. French :fr:
 
 ### :mailbox: How to Reach me
