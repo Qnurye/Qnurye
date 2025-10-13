@@ -1,6 +1,6 @@
 # Hi there :wave:
 
-I'm Qnurye, a :cn: Student / :penguin: Arch Linux Enthusiast. You can find more about me on [qnury.es](https://qnury.es/)
+I'm Qnurye, a :cn: Student / :penguin: Arch Linux Enthusiast, currently interning at [Bytedance](https://bytedance.com/). You can find more about me on [qnury.es](https://qnury.es/).
 
 <img  src="https://github-readme-stats-nine-black-27.vercel.app/api?username=qnurye&theme=onedark&show_icons=true" alt="Qnurye's Stats" align="right"/>
 
